@@ -7,6 +7,8 @@ Projeto desenvolvido durante o curso Explorer da Rocketseat, no módulo de Avan�
 
 [Clique aqui para acessar](https://lubernardino.github.io/FOCUSTIMER/)
 
+![Descrição da imagem](images\FocusTimer.png)
+
 ### 🗂️ Functions
 
 - Play
